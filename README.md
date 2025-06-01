@@ -1,3 +1,9 @@
+## Student Info
+- Name      : Vishal Vusnagiri
+- Student ID: 700763454
+- Course    : Neural Network & Deep Learning  
+- Assignment: Home Assignment 1
+
 # TensorFlow Assignments: Tensors, Loss Functions & TensorBoard
 
 This notebook demonstrates three key concepts in TensorFlow: tensor manipulation, loss function behavior, and training visualization with TensorBoard.
